@@ -1,0 +1,29 @@
+body {
+  background-color: #F9F7F7;
+  color: #112D4E;
+}
+
+h1 {
+  color: #3F72AF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 30%;
+}
+
+
+
+alink {
+  color: #112D4E; 
+}
+
+a:active {
+  color: gray;
+}
+a:visited {
+  color:black;
+}

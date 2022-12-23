@@ -1,9 +1,16 @@
+/*********************************** Tag Selectors ***************************************/
+
 body {
   background-color: #F9F7F7;
   color: #112D4E;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
+  color: #3F72AF;
+}
+
+h3 {
   color: #3F72AF;
 }
 
@@ -15,10 +22,12 @@ hr {
   width: 30%;
 }
 
+a {
+  color: #3F72AF;
+}
 
-
-alink {
-  color: #112D4E; 
+a:hover {
+  background-color: gold; 
 }
 
 a:active {
@@ -26,4 +35,22 @@ a:active {
 }
 a:visited {
   color:black;
+}
+
+
+/*********************************** Class Selectors ***************************************/
+
+.classclass {
+
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+/*********************************** ID Selectors ***************************************/
+
+
+#idid {
+
 }
